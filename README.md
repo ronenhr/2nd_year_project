@@ -1,5 +1,4 @@
-# 2nd_year_project
-Income Clustering Project
+# Income Clustering Project
 
 This project explores clustering techniques on the Adult Income Census dataset to identify meaningful groups of individuals based on demographics, education, work patterns, and income.
 The goal is to uncover patterns that can help policymakers, researchers, or businesses better understand socioeconomic segments.
