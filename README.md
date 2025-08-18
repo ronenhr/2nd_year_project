@@ -44,8 +44,8 @@ We tested multiple clustering techniques and dimensionality reduction approaches
 
 # How to Run
 1.	Clone the repository
- git clone https://github.com/ronenhr/2nd_year_project.git
-cd your-repo-name
+ git clone https://github.com/ronenhr/Adult_income_census_clustering.git
+cd Adult_income_census_clustering
 
 2.	Create a virtual environment (optional but recommended)
    
